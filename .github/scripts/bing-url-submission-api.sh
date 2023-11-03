@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Configurable variables used in IndexNow call and URL construction
-HOST="www.jpatrickfulton.dev"
+HOST="https://unixwinbsd.blogspot.com"
 BASE_URL="https://${HOST}"
 BING_URL="https://ssl.bing.com"
 
